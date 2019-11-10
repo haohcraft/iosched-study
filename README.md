@@ -46,3 +46,10 @@ Contextual action bar
 
 5. Build a Material Theme
 [Link](https://github.com/material-components/material-components-android/tree/master/material-theme-builder)
+- type.xml, typography
+    - how to add fonts in Android Studio, [link](https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts)
+- shape.xml
+    - [shape customization tool](https://material.io/design/shape/about-shape.html#shape-customization-tool)
+    - [shape scheme](https://material.io/design/shape/applying-shape-to-ui.html#)
+- color.xml
+    - [color palette](https://material.io/design/color/the-color-system.html#tools-for-picking-colors)
